@@ -13,7 +13,6 @@ document.addEventListener("DOMContentLoaded", function() {
                         <div class="card-body">
                             <h5 class="card-title">${produit.titre}</h5>
                             <p class="card-text">${produit.description}</p>
-                            <p class="text-primary fw-bold">Prix : ${produit.prix}</p>
                         </div>
                     </div>
                 `;
