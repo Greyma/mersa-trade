@@ -140,25 +140,25 @@
     {
         "image": "images/IMG_2241.JPG",
         "titre": "Produit 23",
-        "description": "Un bureau moderne avec un tiroir.",
+        "description": "Un bureau moderne avec un tiroir, idéal pour les petits espaces avec des besoins de rangement.",
         "prix": "2000.00 Da"
     },
     {
         "image": "images/IMG_2242.JPG",
         "titre": "Produit 24",
-        "description": "Un bureau épuré et simple.",
+        "description": "Un bureau épuré et simple, avec une finition claire et un tiroir pour un rangement supplémentaire.",
         "prix": "2000.00 Da"
     },
     {
         "image": "images/IMG_2243.JPG",
         "titre": "Produit 25",
-        "description": "Un bureau moderne avec un tiroir, idéal pour les petits espaces avec des besoins de rangement.",
+        "description": "Un bureau moderne avec un tiroir.",
         "prix": "2000.00 Da"
     },
     {
         "image": "images/IMG_2244.JPG",
         "titre": "Produit 26",
-        "description": "Un bureau épuré et simple, avec une finition claire et un tiroir pour un rangement supplémentaire.",
+        "description": "Un bureau épuré et simple.",
         "prix": "2000.00 Da"
     }
 ]
